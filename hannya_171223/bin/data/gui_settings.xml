@@ -1,0 +1,20 @@
+<group>
+	<fullscreen__F_>1</fullscreen__F_>
+	<invert>0</invert>
+	<fluid_speed>2.425</fluid_speed>
+	<fluid_circle_x>0.4</fluid_circle_x>
+	<fluid_circle_y>0.4</fluid_circle_y>
+	<fluid_power>9.7</fluid_power>
+	<fluid_diss>0.971</fluid_diss>
+	<fluid_vel>0.969</fluid_vel>
+	<fluid_Gravity>-0.3</fluid_Gravity>
+	<wait_delay>0.5</wait_delay>
+	<contrast>0.5</contrast>
+	<scale_main>0.7</scale_main>
+	<scale_sub>0.25</scale_sub>
+	<acc_rate>0.0475</acc_rate>
+	<thresh_acc>60</thresh_acc>
+	<thresh_delay>1</thresh_delay>
+<group/>
+	<graph>0</graph>
+</group>
